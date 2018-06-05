@@ -1,0 +1,40 @@
+Knn, neighbors : 1, file : ../datasets/reviews_always.csv, rate : 50.0
+Knn, neighbors : 8, file : ../datasets/reviews_always.csv, rate : 61.904761904761905
+Knn, neighbors : 1, file : ../datasets/reviews_gillette.csv, rate : 40.31476997578692
+Knn, neighbors : 1, file : ../datasets/reviews_tampax.csv, rate : 44.0
+Knn, neighbors : 1, file : ../datasets/reviews_pantene.csv, rate : 40.15748031496063
+Knn, neighbors : 8, file : ../datasets/reviews_pantene.csv, rate : 41.732283464566926
+Knn, neighbors : 8, file : ../datasets/reviews_tampax.csv, rate : 68.0
+Knn, neighbors : 8, file : ../datasets/reviews_gillette.csv, rate : 50.0
+Knn, neighbors : 1, file : ../datasets/reviews_oral-b.csv, rate : 50.924918389553866
+Knn, neighbors : 8, file : ../datasets/reviews_oral-b.csv, rate : 62.56800870511425
+Random Forest, file : ../datasets/reviews_oral-b.csv, rate : 65.94124047878128
+Random Forest, file : ../datasets/reviews_always.csv, rate : 64.28571428571429
+Random Forest, file : ../datasets/reviews_always.csv, rate : 64.28571428571429
+Random Forest, file : ../datasets/reviews_tampax.csv, rate : 74.0
+Random Forest, file : ../datasets/reviews_gillette.csv, rate : 55.81113801452784
+Random Forest, file : ../datasets/reviews_pantene.csv, rate : 48.818897637795274
+Random Forest, file : ../datasets/reviews_always.csv, rate : 64.28571428571429
+Knn, neighbors : 10, file : ../datasets/reviews_oral-b.csv, rate : 62.35038084874864
+Random Forest, file : ../datasets/reviews_gillette.csv, rate : 55.44794188861985
+Random Forest, file : ../datasets/reviews_oral-b.csv, rate : 66.1588683351469
+Random Forest, file : ../datasets/reviews_always.csv, rate : 62.698412698412696
+Knn, neighbors : 10, file : ../datasets/reviews_tampax.csv, rate : 74.0
+Knn, neighbors : 10, file : ../datasets/reviews_oral-b.csv, rate : 62.35038084874864
+Knn, neighbors : 1, file : ../datasets/reviews_gillette.csv, rate : 40.19370460048426
+Random Forest, file : ../datasets/reviews_gillette.csv, rate : 56.05326876513317
+Random Forest, file : ../datasets/reviews_tampax.csv, rate : 74.0
+Random Forest, file : ../datasets/reviews_pantene.csv, rate : 48.818897637795274
+Random Forest, file : ../datasets/reviews_always.csv, rate : 64.28571428571429
+Random Forest, file : ../datasets/reviews_tampax.csv, rate : 74.0
+Knn, neighbors : 5, file : ../datasets/reviews_tampax.csv, rate : 64.0
+Knn, neighbors : 5, file : ../datasets/reviews_tampax.csv, rate : 64.0
+Knn, neighbors : 7, file : ../datasets/reviews_oral-b.csv, rate : 60.174102285092495
+Knn, neighbors : 12, file : ../datasets/reviews_pantene.csv, rate : 44.09448818897638
+Random Forest, file : ../datasets/reviews_pantene.csv, rate : 48.818897637795274
+Random Forest, file : ../datasets/reviews_oral-b.csv, rate : 66.1588683351469
+Random Forest, file : ../datasets/reviews_pantene.csv, rate : 48.818897637795274
+Knn, neighbors : 15, file : ../datasets/reviews_oral-b.csv, rate : 64.41784548422198
+Knn, neighbors : 8, file : ../datasets/reviews_oral-b.csv, rate : 62.56800870511425
+Random Forest, file : ../datasets/reviews_gillette.csv, rate : 56.17433414043583
+Random Forest, file : ../datasets/reviews_pantene.csv, rate : 48.818897637795274
